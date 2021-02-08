@@ -1,0 +1,2158 @@
+[
+ {
+   "year": 202006,
+   "continent": "PASCO",
+   "life_exp": 513,
+   "population": 39,
+   "income": 663
+ },
+ {
+   "year": 202006,
+   "continent": "TUMBES",
+   "life_exp": 1966,
+   "population": 41,
+   "income": 682
+ },
+ {
+   "year": 202006,
+   "continent": "APURIMAC",
+   "life_exp": 332,
+   "population": 41,
+   "income": 585
+ },
+ {
+   "year": 202006,
+   "continent": "PUNO",
+   "life_exp": 512,
+   "population": 42,
+   "income": 502
+ },
+ {
+   "year": 202004,
+   "continent": "CALLAO",
+   "life_exp": 4228,
+   "population": 43,
+   "income": 1758
+ },
+ {
+   "year": 202010,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 479,
+   "population": 36,
+   "income": 2128
+ },
+ {
+   "year": 202008,
+   "continent": "HUANCAVELICA",
+   "life_exp": 3098,
+   "population": 39,
+   "income": 3431
+ },
+ {
+   "year": 202005,
+   "continent": "LA LIBERTAD",
+   "life_exp": 4089,
+   "population": 42,
+   "income": 763
+ },
+ {
+   "year": 202004,
+   "continent": "CUSCO",
+   "life_exp": 284,
+   "population": 37,
+   "income": 464
+ },
+ {
+   "year": 202101,
+   "continent": "PASCO",
+   "life_exp": 1287,
+   "population": 42,
+   "income": 861
+ },
+ {
+   "year": 202101,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 2140,
+   "population": 45,
+   "income": 943
+ },
+ {
+   "year": 202004,
+   "continent": "AREQUIPA",
+   "life_exp": 803,
+   "population": 43,
+   "income": 1221
+ },
+ {
+   "year": 202003,
+   "continent": "TACNA",
+   "life_exp": 2,
+   "population": 43,
+   "income": 716
+ },
+ {
+   "year": 202101,
+   "continent": "JUNIN",
+   "life_exp": 6765,
+   "population": 43,
+   "income": 663
+ },
+ {
+   "year": 202011,
+   "continent": "ICA",
+   "life_exp": 579,
+   "population": 37,
+   "income": 682
+ },
+ {
+   "year": 202012,
+   "continent": "LA LIBERTAD",
+   "life_exp": 1656,
+   "population": 44,
+   "income": 521
+ },
+ {
+   "year": 202006,
+   "continent": "JUNIN",
+   "life_exp": 2186,
+   "population": 44,
+   "income": 931
+ },
+ {
+   "year": 202009,
+   "continent": "CUSCO",
+   "life_exp": 4962,
+   "population": 41,
+   "income": 562
+ },
+ {
+   "year": 202009,
+   "continent": "ANCASH",
+   "life_exp": 4227,
+   "population": 41,
+   "income": 556
+ },
+ {
+   "year": 202010,
+   "continent": "CAJAMARCA",
+   "life_exp": 1835,
+   "population": 40,
+   "income": 996
+ },
+ {
+   "year": 202009,
+   "continent": "LIMA",
+   "life_exp": 56516,
+   "population": 41,
+   "income": 1081
+ },
+ {
+   "year": 202008,
+   "continent": "LIMA REGION",
+   "life_exp": 7542,
+   "population": 42,
+   "income": 1414
+ },
+ {
+   "year": 202102,
+   "continent": "AYACUCHO",
+   "life_exp": 142,
+   "population": 45,
+   "income": 490
+ },
+ {
+   "year": 202008,
+   "continent": "SAN MARTIN",
+   "life_exp": 5043,
+   "population": 40,
+   "income": 1636
+ },
+ {
+   "year": 202007,
+   "continent": "AYACUCHO",
+   "life_exp": 2348,
+   "population": 44,
+   "income": 877
+ },
+ {
+   "year": 202006,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 4834,
+   "population": 44,
+   "income": 719
+ },
+ {
+   "year": 202004,
+   "continent": "ICA",
+   "life_exp": 704,
+   "population": 44,
+   "income": 1164
+ },
+ {
+   "year": 202008,
+   "continent": "LORETO",
+   "life_exp": 4934,
+   "population": 35,
+   "income": 507
+ },
+ {
+   "year": 202004,
+   "continent": "PIURA",
+   "life_exp": 1917,
+   "population": 48,
+   "income": 576
+ },
+ {
+   "year": 202101,
+   "continent": "PUNO",
+   "life_exp": 1642,
+   "population": 43,
+   "income": 1480
+ },
+ {
+   "year": 202101,
+   "continent": "HUANUCO",
+   "life_exp": 2651,
+   "population": 44,
+   "income": 363
+ },
+ {
+   "year": 202101,
+   "continent": "TUMBES",
+   "life_exp": 903,
+   "population": 41,
+   "income": 1409
+ },
+ {
+   "year": 202010,
+   "continent": "TACNA",
+   "life_exp": 850,
+   "population": 38,
+   "income": 1021
+ },
+ {
+   "year": 202011,
+   "continent": "AREQUIPA",
+   "life_exp": 1444,
+   "population": 42,
+   "income": 846
+ },
+ {
+   "year": 202006,
+   "continent": "HUANUCO",
+   "life_exp": 1678,
+   "population": 43,
+   "income": 497
+ },
+ {
+   "year": 202012,
+   "continent": "CAJAMARCA",
+   "life_exp": 1241,
+   "population": 41,
+   "income": 850
+ },
+ {
+   "year": 202004,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 3109,
+   "population": 48,
+   "income": 1400
+ },
+ {
+   "year": 202006,
+   "continent": "ICA",
+   "life_exp": 4160,
+   "population": 42,
+   "income": 431
+ },
+ {
+   "year": 202003,
+   "continent": "LIMA REGION",
+   "life_exp": 13,
+   "population": 39,
+   "income": 1097
+ },
+ {
+   "year": 202101,
+   "continent": "AREQUIPA",
+   "life_exp": 5366,
+   "population": 45,
+   "income": 694
+ },
+ {
+   "year": 202004,
+   "continent": "HUANUCO",
+   "life_exp": 298,
+   "population": 40,
+   "income": 1685
+ },
+ {
+   "year": 202004,
+   "continent": "ANCASH",
+   "life_exp": 945,
+   "population": 43,
+   "income": 842
+ },
+ {
+   "year": 202004,
+   "continent": "LIMA",
+   "life_exp": 26906,
+   "population": 43,
+   "income": 543
+ },
+ {
+   "year": 202009,
+   "continent": "AMAZONAS",
+   "life_exp": 3751,
+   "population": 38,
+   "income": 390
+ },
+ {
+   "year": 202003,
+   "continent": "SAN MARTIN",
+   "life_exp": 5,
+   "population": 42,
+   "income": 1244
+ },
+ {
+   "year": 202011,
+   "continent": "JUNIN",
+   "life_exp": 1989,
+   "population": 36,
+   "income": 840
+ },
+ {
+   "year": 202006,
+   "continent": "AREQUIPA",
+   "life_exp": 3547,
+   "population": 48,
+   "income": 1445
+ },
+ {
+   "year": 202008,
+   "continent": "MOQUEGUA",
+   "life_exp": 6073,
+   "population": 43,
+   "income": 838
+ },
+ {
+   "year": 202010,
+   "continent": "SAN MARTIN",
+   "life_exp": 3584,
+   "population": 37,
+   "income": 791
+ },
+ {
+   "year": 202008,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 2703,
+   "population": 36,
+   "income": 1639
+ },
+ {
+   "year": 202010,
+   "continent": "HUANCAVELICA",
+   "life_exp": 547,
+   "population": 39,
+   "income": 629
+ },
+ {
+   "year": 202101,
+   "continent": "CALLAO",
+   "life_exp": 5252,
+   "population": 43,
+   "income": 1427
+ },
+ {
+   "year": 202011,
+   "continent": "PIURA",
+   "life_exp": 2058,
+   "population": 39,
+   "income": 1507
+ },
+ {
+   "year": 202009,
+   "continent": "AYACUCHO",
+   "life_exp": 3104,
+   "population": 41,
+   "income": 854
+ },
+ {
+   "year": 202008,
+   "continent": "TUMBES",
+   "life_exp": 1557,
+   "population": 39,
+   "income": 785
+ },
+ {
+   "year": 202007,
+   "continent": "LA LIBERTAD",
+   "life_exp": 5961,
+   "population": 44,
+   "income": 938
+ },
+ {
+   "year": 202011,
+   "continent": "LIMA",
+   "life_exp": 17435,
+   "population": 40,
+   "income": 716
+ },
+ {
+   "year": 202003,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 1,
+   "population": 28,
+   "income": 853
+ },
+ {
+   "year": 202008,
+   "continent": "UCAYALI",
+   "life_exp": 4126,
+   "population": 39,
+   "income": 864
+ },
+ {
+   "year": 202004,
+   "continent": "JUNIN",
+   "life_exp": 493,
+   "population": 39,
+   "income": 633
+ },
+ {
+   "year": 202005,
+   "continent": "CAJAMARCA",
+   "life_exp": 558,
+   "population": 38,
+   "income": 812
+ },
+ {
+   "year": 202101,
+   "continent": "LORETO",
+   "life_exp": 1064,
+   "population": 41,
+   "income": 2412
+ },
+ {
+   "year": 202010,
+   "continent": "LIMA REGION",
+   "life_exp": 1518,
+   "population": 42,
+   "income": 963
+ },
+ {
+   "year": 202011,
+   "continent": "ANCASH",
+   "life_exp": 1950,
+   "population": 39,
+   "income": 998
+ },
+ {
+   "year": 202006,
+   "continent": "LORETO",
+   "life_exp": 4026,
+   "population": 38,
+   "income": 797
+ },
+ {
+   "year": 202008,
+   "continent": "TACNA",
+   "life_exp": 5889,
+   "population": 43,
+   "income": 734
+ },
+ {
+   "year": 202011,
+   "continent": "HUANUCO",
+   "life_exp": 1033,
+   "population": 41,
+   "income": 2013
+ },
+ {
+   "year": 202011,
+   "continent": "CALLAO",
+   "life_exp": 2624,
+   "population": 40,
+   "income": 1026
+ },
+ {
+   "year": 202008,
+   "continent": "PASCO",
+   "life_exp": 1986,
+   "population": 40,
+   "income": 1803
+ },
+ {
+   "year": 202102,
+   "continent": "LA LIBERTAD",
+   "life_exp": 276,
+   "population": 43,
+   "income": 575
+ },
+ {
+   "year": 202101,
+   "continent": "ICA",
+   "life_exp": 3685,
+   "population": 44,
+   "income": 992
+ },
+ {
+   "year": 202011,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 1856,
+   "population": 45,
+   "income": 485
+ },
+ {
+   "year": 202003,
+   "continent": "HUANCAVELICA",
+   "life_exp": 1,
+   "population": 58,
+   "income": 839
+ },
+ {
+   "year": 202003,
+   "continent": "PASCO",
+   "life_exp": 1,
+   "population": 46,
+   "income": 1848
+ },
+ {
+   "year": 202101,
+   "continent": "APURIMAC",
+   "life_exp": 2012,
+   "population": 42,
+   "income": 974
+ },
+ {
+   "year": 202003,
+   "continent": "TUMBES",
+   "life_exp": 14,
+   "population": 45,
+   "income": 813
+ },
+ {
+   "year": 202102,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 14,
+   "population": 42,
+   "income": 775
+ },
+ {
+   "year": 202102,
+   "continent": "CALLAO",
+   "life_exp": 572,
+   "population": 45,
+   "income": 2701
+ },
+ {
+   "year": 202009,
+   "continent": "APURIMAC",
+   "life_exp": 1882,
+   "population": 39,
+   "income": 1057
+ },
+ {
+   "year": 202006,
+   "continent": "SAN MARTIN",
+   "life_exp": 4143,
+   "population": 40,
+   "income": 1915
+ },
+ {
+   "year": 202007,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 1855,
+   "population": 41,
+   "income": 1109
+ },
+ {
+   "year": 202003,
+   "continent": "PUNO",
+   "life_exp": 1,
+   "population": 29,
+   "income": 393
+ },
+ {
+   "year": 202007,
+   "continent": "CALLAO",
+   "life_exp": 3817,
+   "population": 46,
+   "income": 654
+ },
+ {
+   "year": 202011,
+   "continent": "HUANCAVELICA",
+   "life_exp": 308,
+   "population": 37,
+   "income": 1371
+ },
+ {
+   "year": 202008,
+   "continent": "LA LIBERTAD",
+   "life_exp": 7455,
+   "population": 42,
+   "income": 597
+ },
+ {
+   "year": 202101,
+   "continent": "SAN MARTIN",
+   "life_exp": 1765,
+   "population": 41,
+   "income": 775
+ },
+ {
+   "year": 202007,
+   "continent": "AREQUIPA",
+   "life_exp": 8073,
+   "population": 46,
+   "income": 903
+ },
+ {
+   "year": 202011,
+   "continent": "LIMA REGION",
+   "life_exp": 966,
+   "population": 41,
+   "income": 540
+ },
+ {
+   "year": 202011,
+   "continent": "MOQUEGUA",
+   "life_exp": 890,
+   "population": 38,
+   "income": 658
+ },
+ {
+   "year": 202004,
+   "continent": "HUANCAVELICA",
+   "life_exp": 135,
+   "population": 34,
+   "income": 1249
+ },
+ {
+   "year": 202102,
+   "continent": "AREQUIPA",
+   "life_exp": 602,
+   "population": 47,
+   "income": 815
+ },
+ {
+   "year": 202101,
+   "continent": "ANCASH",
+   "life_exp": 5548,
+   "population": 44,
+   "income": 833
+ },
+ {
+   "year": 202012,
+   "continent": "TACNA",
+   "life_exp": 687,
+   "population": 38,
+   "income": 1140
+ },
+ {
+   "year": 202010,
+   "continent": "PASCO",
+   "life_exp": 631,
+   "population": 36,
+   "income": 962
+ },
+ {
+   "year": 202006,
+   "continent": "CUSCO",
+   "life_exp": 776,
+   "population": 37,
+   "income": 514
+ },
+ {
+   "year": 202006,
+   "continent": "ANCASH",
+   "life_exp": 3589,
+   "population": 45,
+   "income": 1401
+ },
+ {
+   "year": 202012,
+   "continent": "LIMA",
+   "life_exp": 17435,
+   "population": 42,
+   "income": 603
+ },
+ {
+   "year": 202008,
+   "continent": "PUNO",
+   "life_exp": 7025,
+   "population": 43,
+   "income": 1039
+ },
+ {
+   "year": 202101,
+   "continent": "CUSCO",
+   "life_exp": 3506,
+   "population": 43,
+   "income": 757
+ },
+ {
+   "year": 202003,
+   "continent": "JUNIN",
+   "life_exp": 16,
+   "population": 45,
+   "income": 529
+ },
+ {
+   "year": 202005,
+   "continent": "AMAZONAS",
+   "life_exp": 618,
+   "population": 39,
+   "income": 1518
+ },
+ {
+   "year": 202011,
+   "continent": "SAN MARTIN",
+   "life_exp": 2119,
+   "population": 37,
+   "income": 667
+ },
+ {
+   "year": 202004,
+   "continent": "AYACUCHO",
+   "life_exp": 151,
+   "population": 39,
+   "income": 1379
+ },
+ {
+   "year": 202102,
+   "continent": "PIURA",
+   "life_exp": 240,
+   "population": 44,
+   "income": 1021
+ },
+ {
+   "year": 202004,
+   "continent": "LIMA REGION",
+   "life_exp": 1139,
+   "population": 41,
+   "income": 551
+ },
+ {
+   "year": 202003,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 35,
+   "population": 48,
+   "income": 1052
+ },
+ {
+   "year": 202008,
+   "continent": "CAJAMARCA",
+   "life_exp": 8869,
+   "population": 41,
+   "income": 532
+ },
+ {
+   "year": 202005,
+   "continent": "LORETO",
+   "life_exp": 4600,
+   "population": 39,
+   "income": 874
+ },
+ {
+   "year": 202007,
+   "continent": "PIURA",
+   "life_exp": 4760,
+   "population": 42,
+   "income": 959
+ },
+ {
+   "year": 202003,
+   "continent": "HUANUCO",
+   "life_exp": 6,
+   "population": 42,
+   "income": 592
+ },
+ {
+   "year": 202004,
+   "continent": "UCAYALI",
+   "life_exp": 760,
+   "population": 42,
+   "income": 1430
+ },
+ {
+   "year": 202102,
+   "continent": "TACNA",
+   "life_exp": 257,
+   "population": 46,
+   "income": 487
+ },
+ {
+   "year": 202004,
+   "continent": "MOQUEGUA",
+   "life_exp": 150,
+   "population": 42,
+   "income": 1213
+ },
+ {
+   "year": 202008,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 5120,
+   "population": 44,
+   "income": 667
+ },
+ {
+   "year": 202003,
+   "continent": "ICA",
+   "life_exp": 8,
+   "population": 47,
+   "income": 1358
+ },
+ {
+   "year": 202006,
+   "continent": "LIMA REGION",
+   "life_exp": 6583,
+   "population": 45,
+   "income": 1235
+ },
+ {
+   "year": 202010,
+   "continent": "LORETO",
+   "life_exp": 1886,
+   "population": 35,
+   "income": 1170
+ },
+ {
+   "year": 202012,
+   "continent": "AMAZONAS",
+   "life_exp": 428,
+   "population": 39,
+   "income": 579
+ },
+ {
+   "year": 202003,
+   "continent": "CAJAMARCA",
+   "life_exp": 1,
+   "population": 64,
+   "income": 752
+ },
+ {
+   "year": 202006,
+   "continent": "UCAYALI",
+   "life_exp": 2958,
+   "population": 41,
+   "income": 529
+ },
+ {
+   "year": 202009,
+   "continent": "AREQUIPA",
+   "life_exp": 8454,
+   "population": 43,
+   "income": 518
+ },
+ {
+   "year": 202101,
+   "continent": "UCAYALI",
+   "life_exp": 980,
+   "population": 39,
+   "income": 1227
+ },
+ {
+   "year": 202009,
+   "continent": "PIURA",
+   "life_exp": 6507,
+   "population": 40,
+   "income": 876
+ },
+ {
+   "year": 202008,
+   "continent": "HUANUCO",
+   "life_exp": 6671,
+   "population": 41,
+   "income": 915
+ },
+ {
+   "year": 202008,
+   "continent": "ICA",
+   "life_exp": 9011,
+   "population": 39,
+   "income": 424
+ },
+ {
+   "year": 202005,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 463,
+   "population": 42,
+   "income": 621
+ },
+ {
+   "year": 202003,
+   "continent": "LA LIBERTAD",
+   "life_exp": 29,
+   "population": 48,
+   "income": 450
+ },
+ {
+   "year": 202101,
+   "continent": "AYACUCHO",
+   "life_exp": 1596,
+   "population": 45,
+   "income": 356
+ },
+ {
+   "year": 202004,
+   "continent": "APURIMAC",
+   "life_exp": 156,
+   "population": 40,
+   "income": 393
+ },
+ {
+   "year": 202006,
+   "continent": "AYACUCHO",
+   "life_exp": 1052,
+   "population": 42,
+   "income": 418
+ },
+ {
+   "year": 202009,
+   "continent": "CALLAO",
+   "life_exp": 6016,
+   "population": 43,
+   "income": 669
+ },
+ {
+   "year": 202010,
+   "continent": "LA LIBERTAD",
+   "life_exp": 3129,
+   "population": 40,
+   "income": 1050
+ },
+ {
+   "year": 202010,
+   "continent": "PUNO",
+   "life_exp": 1972,
+   "population": 39,
+   "income": 418
+ },
+ {
+   "year": 202006,
+   "continent": "MOQUEGUA",
+   "life_exp": 342,
+   "population": 43,
+   "income": 696
+ },
+ {
+   "year": 202101,
+   "continent": "HUANCAVELICA",
+   "life_exp": 632,
+   "population": 39,
+   "income": 480
+ },
+ {
+   "year": 202011,
+   "continent": "CUSCO",
+   "life_exp": 1348,
+   "population": 39,
+   "income": 618
+ },
+ {
+   "year": 202011,
+   "continent": "UCAYALI",
+   "life_exp": 955,
+   "population": 44,
+   "income": 1089
+ },
+ {
+   "year": 202010,
+   "continent": "TUMBES",
+   "life_exp": 879,
+   "population": 35,
+   "income": 715
+ },
+ {
+   "year": 202003,
+   "continent": "LORETO",
+   "life_exp": 62,
+   "population": 42,
+   "income": 1197
+ },
+ {
+   "year": 202008,
+   "continent": "ANCASH",
+   "life_exp": 6391,
+   "population": 42,
+   "income": 626
+ },
+ {
+   "year": 202005,
+   "continent": "TACNA",
+   "life_exp": 433,
+   "population": 43,
+   "income": 1314
+ },
+ {
+   "year": 202102,
+   "continent": "AMAZONAS",
+   "life_exp": 145,
+   "population": 42,
+   "income": 446
+ },
+ {
+   "year": 202101,
+   "continent": "MOQUEGUA",
+   "life_exp": 1769,
+   "population": 41,
+   "income": 397
+ },
+ {
+   "year": 202011,
+   "continent": "AYACUCHO",
+   "life_exp": 938,
+   "population": 37,
+   "income": 751
+ },
+ {
+   "year": 202011,
+   "continent": "APURIMAC",
+   "life_exp": 690,
+   "population": 40,
+   "income": 518
+ },
+ {
+   "year": 202007,
+   "continent": "AMAZONAS",
+   "life_exp": 4172,
+   "population": 39,
+   "income": 857
+ },
+ {
+   "year": 202008,
+   "continent": "JUNIN",
+   "life_exp": 7465,
+   "population": 42,
+   "income": 608
+ },
+ {
+   "year": 202102,
+   "continent": "LIMA",
+   "life_exp": 6317,
+   "population": 43,
+   "income": 579
+ },
+ {
+   "year": 202005,
+   "continent": "PASCO",
+   "life_exp": 504,
+   "population": 43,
+   "income": 1214
+ },
+ {
+   "year": 202007,
+   "continent": "LIMA",
+   "life_exp": 54340,
+   "population": 44,
+   "income": 1007
+ },
+ {
+   "year": 202101,
+   "continent": "LIMA REGION",
+   "life_exp": 2938,
+   "population": 43,
+   "income": 835
+ },
+ {
+   "year": 202012,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 260,
+   "population": 35,
+   "income": 985
+ },
+ {
+   "year": 202006,
+   "continent": "HUANCAVELICA",
+   "life_exp": 353,
+   "population": 35,
+   "income": 970
+ },
+ {
+   "year": 202102,
+   "continent": "MOQUEGUA",
+   "life_exp": 239,
+   "population": 40,
+   "income": 1447
+ },
+ {
+   "year": 202012,
+   "continent": "PASCO",
+   "life_exp": 383,
+   "population": 38,
+   "income": 1375
+ },
+ {
+   "year": 202012,
+   "continent": "APURIMAC",
+   "life_exp": 1041,
+   "population": 42,
+   "income": 977
+ },
+ {
+   "year": 202012,
+   "continent": "TUMBES",
+   "life_exp": 340,
+   "population": 42,
+   "income": 2225
+ },
+ {
+   "year": 202004,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 128,
+   "population": 39,
+   "income": 1230
+ },
+ {
+   "year": 202009,
+   "continent": "SAN MARTIN",
+   "life_exp": 4023,
+   "population": 38,
+   "income": 976
+ },
+ {
+   "year": 202011,
+   "continent": "LA LIBERTAD",
+   "life_exp": 1833,
+   "population": 43,
+   "income": 854
+ },
+ {
+   "year": 202010,
+   "continent": "CALLAO",
+   "life_exp": 3812,
+   "population": 42,
+   "income": 1097
+ },
+ {
+   "year": 202003,
+   "continent": "PIURA",
+   "life_exp": 25,
+   "population": 37,
+   "income": 554
+ },
+ {
+   "year": 202010,
+   "continent": "CUSCO",
+   "life_exp": 2023,
+   "population": 40,
+   "income": 869
+ },
+ {
+   "year": 202010,
+   "continent": "AREQUIPA",
+   "life_exp": 2565,
+   "population": 42,
+   "income": 508
+ },
+ {
+   "year": 202009,
+   "continent": "TACNA",
+   "life_exp": 3399,
+   "population": 41,
+   "income": 864
+ },
+ {
+   "year": 202007,
+   "continent": "HUANCAVELICA",
+   "life_exp": 941,
+   "population": 39,
+   "income": 913
+ },
+ {
+   "year": 202012,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 2091,
+   "population": 45,
+   "income": 879
+ },
+ {
+   "year": 202011,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 365,
+   "population": 32,
+   "income": 1050
+ },
+ {
+   "year": 202003,
+   "continent": "CUSCO",
+   "life_exp": 34,
+   "population": 41,
+   "income": 777
+ },
+ {
+   "year": 202012,
+   "continent": "JUNIN",
+   "life_exp": 2774,
+   "population": 39,
+   "income": 1270
+ },
+ {
+   "year": 202003,
+   "continent": "ANCASH",
+   "life_exp": 13,
+   "population": 44,
+   "income": 1453
+ },
+ {
+   "year": 202003,
+   "continent": "CALLAO",
+   "life_exp": 46,
+   "population": 49,
+   "income": 663
+ },
+ {
+   "year": 202008,
+   "continent": "AMAZONAS",
+   "life_exp": 5159,
+   "population": 38,
+   "income": 690
+ },
+ {
+   "year": 202004,
+   "continent": "CAJAMARCA",
+   "life_exp": 271,
+   "population": 40,
+   "income": 573
+ },
+ {
+   "year": 202005,
+   "continent": "PUNO",
+   "life_exp": 350,
+   "population": 43,
+   "income": 350
+ },
+ {
+   "year": 202003,
+   "continent": "LIMA",
+   "life_exp": 973,
+   "population": 45,
+   "income": 815
+ },
+ {
+   "year": 202005,
+   "continent": "TUMBES",
+   "life_exp": 928,
+   "population": 45,
+   "income": 997
+ },
+ {
+   "year": 202007,
+   "continent": "PASCO",
+   "life_exp": 945,
+   "population": 40,
+   "income": 781
+ },
+ {
+   "year": 202102,
+   "continent": "PASCO",
+   "life_exp": 81,
+   "population": 39,
+   "income": 527
+ },
+ {
+   "year": 202010,
+   "continent": "ICA",
+   "life_exp": 1442,
+   "population": 37,
+   "income": 940
+ },
+ {
+   "year": 202011,
+   "continent": "CAJAMARCA",
+   "life_exp": 1287,
+   "population": 39,
+   "income": 1948
+ },
+ {
+   "year": 202005,
+   "continent": "APURIMAC",
+   "life_exp": 130,
+   "population": 42,
+   "income": 539
+ },
+ {
+   "year": 202102,
+   "continent": "UCAYALI",
+   "life_exp": 86,
+   "population": 41,
+   "income": 1278
+ },
+ {
+   "year": 202010,
+   "continent": "PIURA",
+   "life_exp": 2342,
+   "population": 40,
+   "income": 390
+ },
+ {
+   "year": 202012,
+   "continent": "PUNO",
+   "life_exp": 846,
+   "population": 39,
+   "income": 994
+ },
+ {
+   "year": 202012,
+   "continent": "HUANUCO",
+   "life_exp": 1434,
+   "population": 42,
+   "income": 4235
+ },
+ {
+   "year": 202007,
+   "continent": "MOQUEGUA",
+   "life_exp": 2220,
+   "population": 44,
+   "income": 973
+ },
+ {
+   "year": 202005,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 6138,
+   "population": 43,
+   "income": 851
+ },
+ {
+   "year": 202007,
+   "continent": "UCAYALI",
+   "life_exp": 2437,
+   "population": 41,
+   "income": 792
+ },
+ {
+   "year": 202102,
+   "continent": "LORETO",
+   "life_exp": 107,
+   "population": 45,
+   "income": 898
+ },
+ {
+   "year": 202010,
+   "continent": "ANCASH",
+   "life_exp": 3761,
+   "population": 42,
+   "income": 603
+ },
+ {
+   "year": 202012,
+   "continent": "PIURA",
+   "life_exp": 1961,
+   "population": 41,
+   "income": 696
+ },
+ {
+   "year": 202010,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 2459,
+   "population": 43,
+   "income": 926
+ },
+ {
+   "year": 202012,
+   "continent": "ICA",
+   "life_exp": 962,
+   "population": 41,
+   "income": 1220
+ },
+ {
+   "year": 202009,
+   "continent": "LIMA REGION",
+   "life_exp": 3247,
+   "population": 43,
+   "income": 847
+ },
+ {
+   "year": 202010,
+   "continent": "HUANUCO",
+   "life_exp": 1150,
+   "population": 38,
+   "income": 1081
+ },
+ {
+   "year": 202006,
+   "continent": "CAJAMARCA",
+   "life_exp": 1582,
+   "population": 41,
+   "income": 546
+ },
+ {
+   "year": 202009,
+   "continent": "UCAYALI",
+   "life_exp": 2688,
+   "population": 37,
+   "income": 675
+ },
+ {
+   "year": 202101,
+   "continent": "CAJAMARCA",
+   "life_exp": 3375,
+   "population": 42,
+   "income": 523
+ },
+ {
+   "year": 202012,
+   "continent": "AREQUIPA",
+   "life_exp": 1862,
+   "population": 44,
+   "income": 1512
+ },
+ {
+   "year": 202005,
+   "continent": "HUANUCO",
+   "life_exp": 542,
+   "population": 41,
+   "income": 1204
+ },
+ {
+   "year": 202101,
+   "continent": "LA LIBERTAD",
+   "life_exp": 2676,
+   "population": 44,
+   "income": 870
+ },
+ {
+   "year": 202005,
+   "continent": "ICA",
+   "life_exp": 3082,
+   "population": 42,
+   "income": 665
+ },
+ {
+   "year": 202006,
+   "continent": "LA LIBERTAD",
+   "life_exp": 5555,
+   "population": 45,
+   "income": 682
+ },
+ {
+   "year": 202007,
+   "continent": "APURIMAC",
+   "life_exp": 417,
+   "population": 40,
+   "income": 2168
+ },
+ {
+   "year": 202005,
+   "continent": "PIURA",
+   "life_exp": 7265,
+   "population": 45,
+   "income": 3439
+ },
+ {
+   "year": 202007,
+   "continent": "LORETO",
+   "life_exp": 3830,
+   "population": 37,
+   "income": 1001
+ },
+ {
+   "year": 202004,
+   "continent": "SAN MARTIN",
+   "life_exp": 265,
+   "population": 36,
+   "income": 764
+ },
+ {
+   "year": 202012,
+   "continent": "CALLAO",
+   "life_exp": 2355,
+   "population": 42,
+   "income": 719
+ },
+ {
+   "year": 202009,
+   "continent": "HUANCAVELICA",
+   "life_exp": 1888,
+   "population": 37,
+   "income": 716
+ },
+ {
+   "year": 202007,
+   "continent": "PUNO",
+   "life_exp": 1590,
+   "population": 44,
+   "income": 663
+ },
+ {
+   "year": 202005,
+   "continent": "LIMA",
+   "life_exp": 72542,
+   "population": 43,
+   "income": 683
+ },
+ {
+   "year": 202008,
+   "continent": "CUSCO",
+   "life_exp": 10849,
+   "population": 43,
+   "income": 522
+ },
+ {
+   "year": 202005,
+   "continent": "AREQUIPA",
+   "life_exp": 2863,
+   "population": 42,
+   "income": 932
+ },
+ {
+   "year": 202010,
+   "continent": "JUNIN",
+   "life_exp": 3291,
+   "population": 37,
+   "income": 562
+ },
+ {
+   "year": 202007,
+   "continent": "TUMBES",
+   "life_exp": 1455,
+   "population": 40,
+   "income": 557
+ },
+ {
+   "year": 202009,
+   "continent": "MOQUEGUA",
+   "life_exp": 4083,
+   "population": 41,
+   "income": 2701
+ },
+ {
+   "year": 202005,
+   "continent": "ANCASH",
+   "life_exp": 3802,
+   "population": 44,
+   "income": 1637
+ },
+ {
+   "year": 202102,
+   "continent": "PUNO",
+   "life_exp": 130,
+   "population": 42,
+   "income": 518
+ },
+ {
+   "year": 202102,
+   "continent": "TUMBES",
+   "life_exp": 55,
+   "population": 42,
+   "income": 838
+ },
+ {
+   "year": 202012,
+   "continent": "LORETO",
+   "life_exp": 1010,
+   "population": 36,
+   "income": 875
+ },
+ {
+   "year": 202005,
+   "continent": "JUNIN",
+   "life_exp": 1497,
+   "population": 42,
+   "income": 1165
+ },
+ {
+   "year": 202008,
+   "continent": "AYACUCHO",
+   "life_exp": 4578,
+   "population": 44,
+   "income": 1480
+ },
+ {
+   "year": 202010,
+   "continent": "AMAZONAS",
+   "life_exp": 1681,
+   "population": 37,
+   "income": 1409
+ },
+ {
+   "year": 202010,
+   "continent": "LIMA",
+   "life_exp": 33834,
+   "population": 40,
+   "income": 1427
+ },
+ {
+   "year": 202005,
+   "continent": "CALLAO",
+   "life_exp": 8646,
+   "population": 43,
+   "income": 1021
+ },
+ {
+   "year": 202007,
+   "continent": "TACNA",
+   "life_exp": 1941,
+   "population": 45,
+   "income": 734
+ },
+ {
+   "year": 202009,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 1860,
+   "population": 37,
+   "income": 1358
+ },
+ {
+   "year": 202101,
+   "continent": "PIURA",
+   "life_exp": 2795,
+   "population": 42,
+   "income": 497
+ },
+ {
+   "year": 202009,
+   "continent": "PASCO",
+   "life_exp": 1086,
+   "population": 39,
+   "income": 852
+ },
+ {
+   "year": 202009,
+   "continent": "TUMBES",
+   "life_exp": 1498,
+   "population": 35,
+   "income": 1404
+ },
+ {
+   "year": 202005,
+   "continent": "HUANCAVELICA",
+   "life_exp": 424,
+   "population": 32,
+   "income": 1400
+ },
+ {
+   "year": 202012,
+   "continent": "SAN MARTIN",
+   "life_exp": 1368,
+   "population": 34,
+   "income": 432
+ },
+ {
+   "year": 202007,
+   "continent": "CUSCO",
+   "life_exp": 3059,
+   "population": 44,
+   "income": 1432
+ },
+ {
+   "year": 202006,
+   "continent": "PIURA",
+   "life_exp": 8556,
+   "population": 42,
+   "income": 816
+ },
+ {
+   "year": 202006,
+   "continent": "TACNA",
+   "life_exp": 528,
+   "population": 41,
+   "income": 1101
+ },
+ {
+   "year": 202012,
+   "continent": "ANCASH",
+   "life_exp": 2074,
+   "population": 44,
+   "income": 1375
+ },
+ {
+   "year": 202009,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 4056,
+   "population": 44,
+   "income": 393
+ },
+ {
+   "year": 202101,
+   "continent": "TACNA",
+   "life_exp": 2192,
+   "population": 44,
+   "income": 669
+ },
+ {
+   "year": 202101,
+   "continent": "LIMA",
+   "life_exp": 58178,
+   "population": 43,
+   "income": 1651
+ },
+ {
+   "year": 202102,
+   "continent": "CAJAMARCA",
+   "life_exp": 172,
+   "population": 42,
+   "income": 502
+ },
+ {
+   "year": 202009,
+   "continent": "JUNIN",
+   "life_exp": 4526,
+   "population": 40,
+   "income": 667
+ },
+ {
+   "year": 202004,
+   "continent": "LORETO",
+   "life_exp": 1492,
+   "population": 43,
+   "income": 754
+ },
+ {
+   "year": 202007,
+   "continent": "CAJAMARCA",
+   "life_exp": 5571,
+   "population": 43,
+   "income": 1806
+ },
+ {
+   "year": 202011,
+   "continent": "AMAZONAS",
+   "life_exp": 822,
+   "population": 38,
+   "income": 840
+ },
+ {
+   "year": 202006,
+   "continent": "CALLAO",
+   "life_exp": 5660,
+   "population": 47,
+   "income": 1374
+ },
+ {
+   "year": 202006,
+   "continent": "LIMA",
+   "life_exp": 52431,
+   "population": 44,
+   "income": 2017
+ },
+ {
+   "year": 202005,
+   "continent": "LIMA REGION",
+   "life_exp": 4483,
+   "population": 41,
+   "income": 874
+ },
+ {
+   "year": 202003,
+   "continent": "AYACUCHO",
+   "life_exp": 1,
+   "population": 46,
+   "income": 1916
+ },
+ {
+   "year": 202010,
+   "continent": "AYACUCHO",
+   "life_exp": 1764,
+   "population": 39,
+   "income": 854
+ },
+ {
+   "year": 202005,
+   "continent": "SAN MARTIN",
+   "life_exp": 1185,
+   "population": 36,
+   "income": 350
+ },
+ {
+   "year": 202102,
+   "continent": "ICA",
+   "life_exp": 504,
+   "population": 42,
+   "income": 576
+ },
+ {
+   "year": 202007,
+   "continent": "ICA",
+   "life_exp": 6147,
+   "population": 42,
+   "income": 861
+ },
+ {
+   "year": 202011,
+   "continent": "LORETO",
+   "life_exp": 1483,
+   "population": 32,
+   "income": 575
+ },
+ {
+   "year": 202008,
+   "continent": "APURIMAC",
+   "life_exp": 2058,
+   "population": 39,
+   "income": 487
+ },
+ {
+   "year": 202102,
+   "continent": "CUSCO",
+   "life_exp": 503,
+   "population": 42,
+   "income": 1246
+ },
+ {
+   "year": 202004,
+   "continent": "AMAZONAS",
+   "life_exp": 165,
+   "population": 39,
+   "income": 543
+ },
+ {
+   "year": 202009,
+   "continent": "PUNO",
+   "life_exp": 5814,
+   "population": 41,
+   "income": 573
+ },
+ {
+   "year": 202008,
+   "continent": "AREQUIPA",
+   "life_exp": 18872,
+   "population": 44,
+   "income": 775
+ },
+ {
+   "year": 202009,
+   "continent": "HUANUCO",
+   "life_exp": 2989,
+   "population": 39,
+   "income": 944
+ },
+ {
+   "year": 202010,
+   "continent": "MOQUEGUA",
+   "life_exp": 1054,
+   "population": 39,
+   "income": 418
+ },
+ {
+   "year": 202010,
+   "continent": "UCAYALI",
+   "life_exp": 1603,
+   "population": 38,
+   "income": 797
+ },
+ {
+   "year": 202007,
+   "continent": "ANCASH",
+   "life_exp": 4298,
+   "population": 43,
+   "income": 1221
+ },
+ {
+   "year": 202009,
+   "continent": "CAJAMARCA",
+   "life_exp": 4231,
+   "population": 39,
+   "income": 523
+ },
+ {
+   "year": 202102,
+   "continent": "HUANUCO",
+   "life_exp": 134,
+   "population": 45,
+   "income": 1081
+ },
+ {
+   "year": 202007,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 3820,
+   "population": 44,
+   "income": 914
+ },
+ {
+   "year": 202009,
+   "continent": "ICA",
+   "life_exp": 6089,
+   "population": 37,
+   "income": 507
+ },
+ {
+   "year": 202004,
+   "continent": "TACNA",
+   "life_exp": 161,
+   "population": 44,
+   "income": 586
+ },
+ {
+   "year": 202101,
+   "continent": "AMAZONAS",
+   "life_exp": 1131,
+   "population": 42,
+   "income": 846
+ },
+ {
+   "year": 202007,
+   "continent": "HUANUCO",
+   "life_exp": 4842,
+   "population": 42,
+   "income": 1445
+ },
+ {
+   "year": 202012,
+   "continent": "LIMA REGION",
+   "life_exp": 995,
+   "population": 41,
+   "income": 697
+ },
+ {
+   "year": 202006,
+   "continent": "AMAZONAS",
+   "life_exp": 1762,
+   "population": 40,
+   "income": 667
+ },
+ {
+   "year": 202012,
+   "continent": "UCAYALI",
+   "life_exp": 846,
+   "population": 42,
+   "income": 508
+ },
+ {
+   "year": 202003,
+   "continent": "AREQUIPA",
+   "life_exp": 30,
+   "population": 51,
+   "income": 1227
+ },
+ {
+   "year": 202102,
+   "continent": "LAMBAYEQUE",
+   "life_exp": 111,
+   "population": 46,
+   "income": 1217
+ },
+ {
+   "year": 202011,
+   "continent": "TUMBES",
+   "life_exp": 479,
+   "population": 36,
+   "income": 973
+ },
+ {
+   "year": 202005,
+   "continent": "MOQUEGUA",
+   "life_exp": 553,
+   "population": 45,
+   "income": 1508
+ },
+ {
+   "year": 202007,
+   "continent": "SAN MARTIN",
+   "life_exp": 4188,
+   "population": 42,
+   "income": 390
+ },
+ {
+   "year": 202102,
+   "continent": "APURIMAC",
+   "life_exp": 129,
+   "population": 43,
+   "income": 696
+ },
+ {
+   "year": 202009,
+   "continent": "LA LIBERTAD",
+   "life_exp": 6871,
+   "population": 41,
+   "income": 1039
+ },
+ {
+   "year": 202102,
+   "continent": "SAN MARTIN",
+   "life_exp": 141,
+   "population": 42,
+   "income": 1109
+ },
+ {
+   "year": 202008,
+   "continent": "PIURA",
+   "life_exp": 7974,
+   "population": 41,
+   "income": 1230
+ },
+ {
+   "year": 202102,
+   "continent": "HUANCAVELICA",
+   "life_exp": 42,
+   "population": 42,
+   "income": 514
+ },
+ {
+   "year": 202010,
+   "continent": "APURIMAC",
+   "life_exp": 969,
+   "population": 40,
+   "income": 975
+ },
+ {
+   "year": 202012,
+   "continent": "CUSCO",
+   "life_exp": 1318,
+   "population": 38,
+   "income": 1402
+ },
+ {
+   "year": 202011,
+   "continent": "PUNO",
+   "life_exp": 1111,
+   "population": 37,
+   "income": 1855
+ },
+ {
+   "year": 202012,
+   "continent": "AYACUCHO",
+   "life_exp": 719,
+   "population": 39,
+   "income": 1199
+ },
+ {
+   "year": 202004,
+   "continent": "PASCO",
+   "life_exp": 163,
+   "population": 41,
+   "income": 843
+ },
+ {
+   "year": 202012,
+   "continent": "HUANCAVELICA",
+   "life_exp": 223,
+   "population": 37,
+   "income": 996
+ },
+ {
+   "year": 202008,
+   "continent": "LIMA",
+   "life_exp": 85980,
+   "population": 43,
+   "income": 363
+ },
+ {
+   "year": 202004,
+   "continent": "LA LIBERTAD",
+   "life_exp": 1067,
+   "population": 43,
+   "income": 939
+ },
+ {
+   "year": 202102,
+   "continent": "JUNIN",
+   "life_exp": 631,
+   "population": 44,
+   "income": 620
+ },
+ {
+   "year": 202005,
+   "continent": "CUSCO",
+   "life_exp": 841,
+   "population": 38,
+   "income": 1453
+ },
+ {
+   "year": 202006,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 1500,
+   "population": 41,
+   "income": 608
+ },
+ {
+   "year": 202005,
+   "continent": "UCAYALI",
+   "life_exp": 4203,
+   "population": 43,
+   "income": 529
+ },
+ {
+   "year": 202004,
+   "continent": "PUNO",
+   "life_exp": 215,
+   "population": 42,
+   "income": 757
+ },
+ {
+   "year": 202007,
+   "continent": "JUNIN",
+   "life_exp": 4264,
+   "population": 44,
+   "income": 532
+ },
+ {
+   "year": 202004,
+   "continent": "TUMBES",
+   "life_exp": 382,
+   "population": 42,
+   "income": 603
+ },
+ {
+   "year": 202012,
+   "continent": "MOQUEGUA",
+   "life_exp": 776,
+   "population": 40,
+   "income": 1240
+ },
+ {
+   "year": 202007,
+   "continent": "LIMA REGION",
+   "life_exp": 6326,
+   "population": 44,
+   "income": 1758
+ },
+ {
+   "year": 202011,
+   "continent": "TACNA",
+   "life_exp": 913,
+   "population": 34,
+   "income": 997
+ },
+ {
+   "year": 202102,
+   "continent": "LIMA REGION",
+   "life_exp": 334,
+   "population": 43,
+   "income": 397
+ },
+ {
+   "year": 202009,
+   "continent": "LORETO",
+   "life_exp": 3128,
+   "population": 38,
+   "income": 579
+ },
+ {
+   "year": 202008,
+   "continent": "CALLAO",
+   "life_exp": 6433,
+   "population": 44,
+   "income": 940
+ },
+ {
+   "year": 202005,
+   "continent": "AYACUCHO",
+   "life_exp": 698,
+   "population": 39,
+   "income": 716
+ },
+ {
+   "year": 202011,
+   "continent": "PASCO",
+   "life_exp": 444,
+   "population": 34,
+   "income": 1221
+ },
+ {
+   "year": 202101,
+   "continent": "MADRE DE DIOS",
+   "life_exp": 162,
+   "population": 39,
+   "income": 835
+ },
+ {
+   "year": 202102,
+   "continent": "ANCASH",
+   "life_exp": 464,
+   "population": 45,
+   "income": 1685
+ }
+]
